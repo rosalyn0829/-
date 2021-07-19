@@ -1,0 +1,35 @@
+body,
+    button,
+    input,
+    select,
+    textarea,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        // 國字
+        font-family: NotoSansCJKtc;
+    };
+.fs-number{
+    font-family:BalooTamma2-Bold;
+};
+
+form>*{
+    color:#373A3C;
+};
+
+.btn-color{
+    color:#858377 ;
+};
+.hover1:hover{
+    background-color: #FF785E;
+    color: #FFFFFF !important; 
+
+}
+.hover2:hover{
+    background-color: #FFDF65;
+
+}
